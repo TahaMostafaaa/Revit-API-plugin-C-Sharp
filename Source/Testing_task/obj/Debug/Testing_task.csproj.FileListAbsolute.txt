@@ -1,0 +1,16 @@
+C:\ProgramData\Autodesk\Revit\Macros\2017\Revit\AppHookup\Testing_task\AddIn\Testing_task.dll
+C:\ProgramData\Autodesk\Revit\Macros\2017\Revit\AppHookup\Testing_task\AddIn\Testing_task.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2017\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2017\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.dll
+C:\ProgramData\Autodesk\Revit\Macros\2017\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2017\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.Globals.resources
+C:\ProgramData\Autodesk\Revit\Macros\2017\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.csproj.GenerateResource.Cache
+C:\ProgramData\Autodesk\Revit\Macros\2018\Revit\AppHookup\Testing_task\Addin\Testing_task.dll
+C:\ProgramData\Autodesk\Revit\Macros\2018\Revit\AppHookup\Testing_task\Addin\Testing_task.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2018\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2018\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.csproj.GenerateResource.Cache
+C:\ProgramData\Autodesk\Revit\Macros\2018\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.dll
+C:\ProgramData\Autodesk\Revit\Macros\2018\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2018\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.Form2.resources
+C:\ProgramData\Autodesk\Revit\Macros\2018\Revit\AppHookup\Testing_task\Addin\Form1.resx
+C:\ProgramData\Autodesk\Revit\Macros\2018\Revit\AppHookup\Testing_task\Source\Testing_task\obj\Debug\Testing_task.cmp.resources
